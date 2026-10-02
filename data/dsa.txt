@@ -1,0 +1,3 @@
+Data Structures and Algorithms help solve programming problems.
+Arrays, Linked Lists, Trees and Graphs are important data structures.
+DSA is useful for coding interviews.
